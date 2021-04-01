@@ -1,0 +1,23 @@
+{
+  "name": "tv-book",
+  "version": "1.0.0",
+  "description": "这是一些电视剧",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1zhangjinyu/tv-book.git"
+  },
+  "keywords": [],
+  "author": "1zhangjinyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1zhangjinyu/tv-book/issues"
+  },
+  "homepage": "https://github.com/1zhangjinyu/tv-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
